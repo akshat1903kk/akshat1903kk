@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @akshat1903kk and i am a newbie
-- 👀 I’m interested in learning new languages ...
-- 🌱 I’m currently learning c and python...
-- 💞️ I’m looking to collaborate on anything which will help me grow...
-- 📫 How to reach me mail me on akshat1903.kk@gmail.com ...
+# Hi there, I'm Akshat! 👋
 
-<!---
-akshat1903kk/akshat1903kk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm excited to share my projects and contributions with you.
+
+## About Me
+
+I'm a passionate developer with a keen interest in technology and programming. I love exploring new technologies, building innovative projects, and contributing to open-source communities.
+
+- 🌟 **Username:** akshat1903kk
+- ✨ **Current Focus:** Working on various software development projects and contributing to open-source.
+- 🔭 **Looking for:** Collaboration on exciting projects and learning opportunities.
+- 🌱 **Currently Learning:** Advanced web development, AI, and machine learning.
+
+## My Projects
+
+Here are some of my recent projects:
+
+1. **Project Name 1**: A brief description of the project.
+2. **Project Name 2**: A brief description of the project.
+3. **Project Name 3**: A brief description of the project.
+
+Check out my repositories for more!
+
+## Get in Touch
+
+Feel free to reach out to me:
+
+- 📧 **Email:** akshat1903.kk@gmail.com
+- 
+
+## GitHub Stats
+
+![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshat1903kk&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat1903kk&layout=compact&theme=radical)
+
+Thank you for visiting my profile! Have a great day! 😊
