@@ -1,39 +1,35 @@
 # Hi there, I'm Akshat! 👋
 
-Welcome to my GitHub profile! I'm excited to share my projects and contributions with you.
+🚀 Aspiring Software Engineer | Python Enthusiast | Open Source Contributor
 
 ## About Me
 
-I'm a passionate developer with a keen interest in technology and programming. I love exploring new technologies, building innovative projects, and contributing to open-source communities.
+I'm Akshat, a developer passionate about building solutions that make a difference. I enjoy working with Python, web technologies, and AI. I love collaborating on open source and constantly strive to learn something new every day.
 
-- 🌟 **Username:** akshat1903kk
-- ✨ **Current Focus:** Working on various software development projects and contributing to open-source.
-- 🔭 **Looking for:** Collaboration on exciting projects and learning opportunities.
-- 🌱 **Currently Learning:** Advanced web development, AI, and machine learning.
+- 👨‍💻 Currently working on: [RUSSIAN_ROULETTE-game](https://github.com/akshat1903kk/RUSSIAN_ROULETTE-game)
+- 🌱 Learning: Advanced web development, Machine Learning, AI models
+- 🤝 Always open to collaborations and exciting project ideas!
+- 🏆 Achievements: Pull Shark, YOLO
 
-## My Projects
+## 📌 Featured Projects
 
-Here are some of my recent projects:
+- **[FinanceApp](https://github.com/akshat1903kk/FinanceApp)**: Simple finance tracker to manage expenses and savings in Python.
+- **[SkillShare](https://github.com/akshat1903kk/SkillShare)**: Platform for peer-to-peer learning and sharing new skills.
+- **[Todoapp](https://github.com/akshat1903kk/Todoapp)**: Minimalist todo webapp to boost productivity.
+- **[weatherapp](https://github.com/akshat1903kk/weatherapp)**: Real-time weather updates using a public API and responsive UI.
 
-1. **Project Name 1**: A brief description of the project.
-2. **Project Name 2**: A brief description of the project.
-3. **Project Name 3**: A brief description of the project.
-
-Check out my repositories for more!
-
-## Get in Touch
-
-Feel free to reach out to me:
-
-- 📧 **Email:** akshat1903.kk@gmail.com
-- 
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshat1903kk&show_icons=true&theme=radical)
 
-## Top Languages
+## ⚡ Fun Fact
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat1903kk&layout=compact&theme=radical)
+I enjoy participating in coding challenges and love experimenting with automation projects.
 
-Thank you for visiting my profile! Have a great day! 😊
+---
+
+**Let's connect & collaborate!**
+- 📫 [Email me](akshatkushwaha019@gmail.com)
+---
+
+_Thank you for stopping by!_
