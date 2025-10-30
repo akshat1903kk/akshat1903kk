@@ -13,6 +13,8 @@ My current mission is to explore the full DevOps pipeline — from backend APIs 
 
 I believe in *“learning by building, failing fast, and documenting everything.”*  
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Akshat+Kushwaha;I'm+a+DevOps+Enthusiast;I'm+a+Lifelong+Learner;Building+the+Fedora+DevOps+Lab" />
+
 ---
 
 ### 🧩 What I’m Currently Working On  
@@ -41,14 +43,33 @@ I believe in *“learning by building, failing fast, and documenting everything.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshat1903kk&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat1903kk&theme=github-dark-blue&hide_border=true" height="150" />
+
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat1903kk&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat1903kk&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" />
 </p>
 
+<p align="center">
+  <a href="https://x.com/AkshatKush1903">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+</p>
+
 ---
+
 
 ### 🎨 Beyond the Code  
 
